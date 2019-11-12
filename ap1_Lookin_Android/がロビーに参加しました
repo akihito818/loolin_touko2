@@ -1,0 +1,101 @@
+[33mcommit 313d0793863a825abaf6973c5a83b7282ccd073a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JohnDesk <kenji.t.email@gmail.com>
+Date:   Sat Nov 9 02:07:37 2019 +0900
+
+    インフォ画面追加　変数諸々修正必要
+
+[33mcommit 591da65db8f3eefb68e72ff4a231c0770cbcd6aa[m
+Merge: 7e3727b 00bfc78
+Author: Yuta225 <45545877+Yuta225@users.noreply.github.com>
+Date:   Wed Oct 30 21:32:34 2019 +0900
+
+    Merge pull request #12 from 2019-miraikeitai-org/develop2
+    
+    Develop2
+
+[33mcommit 00bfc785886eaab8ce9b8b533caf184958ad2d2e[m[33m ([m[1;31morigin/develop2[m[33m)[m
+Merge: b82b424 9f1df23
+Author: Yuta225 <45545877+Yuta225@users.noreply.github.com>
+Date:   Wed Oct 30 13:20:17 2019 +0900
+
+    Merge pull request #11 from 2019-miraikeitai-org/iss10
+    
+    augumented imagsesの画質向上
+
+[33mcommit 9f1df23f035db425f588f0ddef5ad9fbbafc8a87[m[33m ([m[1;31morigin/iss10[m[33m)[m
+Author: Yuta225 <leonee0510@gmail.com>
+Date:   Wed Oct 30 13:17:36 2019 +0900
+
+    augumented imagsesの画質向上
+
+[33mcommit b82b42449a2f259dcd12af84d01394c3435963d8[m
+Merge: c02d172 52a177b
+Author: Yuta225 <45545877+Yuta225@users.noreply.github.com>
+Date:   Wed Oct 30 00:15:23 2019 +0900
+
+    Merge pull request #9 from 2019-miraikeitai-org/iss8
+    
+    augumented images修正
+
+[33mcommit 52a177b6ff50768c3ee794b3f299d64153cb071b[m[33m ([m[1;31morigin/iss8[m[33m)[m
+Author: Yuta225 <leonee0510@gmail.com>
+Date:   Wed Oct 30 00:13:11 2019 +0900
+
+    augumented images修正
+
+[33mcommit c02d172c47bab4dcd32a95064d6ceefe42f99dfb[m
+Merge: b89b453 2708a76
+Author: kenji753 <kenji.t.email@gmail.com>
+Date:   Tue Oct 29 23:28:17 2019 +0900
+
+    Merge pull request #7 from 2019-miraikeitai-org/iss6
+    
+    いいねボタン修正
+
+[33mcommit 2708a76fd074374eb74a41019fdc1c84008b296e[m[33m ([m[1;31morigin/iss6[m[33m)[m
+Author: JohnDesk <kenji.t.email@gmail.com>
+Date:   Tue Oct 29 23:23:53 2019 +0900
+
+    いいねボタン修正
+
+[33mcommit b89b45304a6ddb9146a215267094db73e594a19c[m
+Merge: 7e3727b 9416b8c
+Author: Yuta225 <45545877+Yuta225@users.noreply.github.com>
+Date:   Tue Oct 29 22:11:59 2019 +0900
+
+    Merge pull request #5 from 2019-miraikeitai-org/iss4
+    
+    augumented images実装
+
+[33mcommit 9416b8cb743efb8ccf7e0074478b9fab7f66942b[m[33m ([m[1;31morigin/iss4[m[33m)[m
+Author: Yuta225 <leonee0510@gmail.com>
+Date:   Tue Oct 29 22:02:57 2019 +0900
+
+    augumented images実装
+
+[33mcommit 7e3727b19dcf40e717c34e86624f8d6da97e8866[m
+Merge: a32a294 8147b30
+Author: Yuta225 <45545877+Yuta225@users.noreply.github.com>
+Date:   Wed Oct 16 01:28:54 2019 +0900
+
+    Merge pull request #3 from 2019-miraikeitai-org/iss1
+    
+    上の×ボタン押して戻れるようにした
+
+[33mcommit 8147b3015714e339bc1a2cdb961503bfd3043a9b[m[33m ([m[1;31morigin/iss1[m[33m)[m
+Author: Yuta225 <leonee0510@gmail.com>
+Date:   Wed Oct 16 01:23:46 2019 +0900
+
+    上の×ボタン押して戻れるようにした
+
+[33mcommit a32a29407796d3e2de39c19f66ff15a404186f4c[m
+Author: JohnDesk <kenji.t.email@gmail.com>
+Date:   Tue Oct 15 23:16:42 2019 +0900
+
+    TimeLine追加
+
+[33mcommit 1dbce69009d5b913d12c53430a10477474abb920[m
+Author: Yuta225 <leonee0510@gmail.com>
+Date:   Tue Oct 15 01:53:34 2019 +0900
+
+    add file
